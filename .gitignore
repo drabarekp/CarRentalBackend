@@ -1,0 +1,5 @@
+.vs
+./dotNetAPI/bin
+./dotNetAPI/obj
+/dotNetAPI/bin/Debug/net6.0/Humanizer.dll
+/dotNetAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll

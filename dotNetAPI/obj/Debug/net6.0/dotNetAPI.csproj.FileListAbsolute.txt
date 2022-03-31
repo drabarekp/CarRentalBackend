@@ -1,0 +1,782 @@
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\appsettings.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GlobalUsings.g.cs
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\dotNetAPI\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GlobalUsings.g.cs
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+C:\Users\jakub\source\repos\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+C:\Users\PUS\Desktop\Personal\MiNI\dotNet\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Paweu\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+C:\Users\Paweu\Source\Repos\Backend_15-12\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.json
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GlobalUsings.g.cs
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+D:\Desktop\dotnet2\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\web.config
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\Backend\dotNetAPI\bin\Debug\net6.0\RestSharp.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\web.config
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\RestSharp.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GlobalUsings.g.cs
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+D:\Desktop\Studia\MiNI\Semestr 1\dotNet\why\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\web.config
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+C:\Users\Paweu\Source\Repos\Backend_Prod2\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\web.config
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+C:\Users\Paweu\Source\Repos\BackendProd3\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\web.config
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
+C:\Users\Paweu\source\repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\mailApi.json
+C:\Users\Paweu\source\repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Paweu\source\repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Paweu\source\repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\SendGrid.Extensions.DependencyInjection.dll
+C:\Users\Paweu\source\repos\BackendProd3\dotNetAPI\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\mailApi.json
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\SendGrid.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\SendGrid.Extensions.DependencyInjection.dll
+C:\Users\jakub\Source\Repos\Backend\dotNetAPI\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\web.config
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\mailApi.json
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.exe
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.deps.json
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.runtimeconfig.json
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\dotNetAPI.pdb
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\SendGrid.Extensions.DependencyInjection.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.AssemblyReference.cache
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfoInputs.cache
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.AssemblyInfo.cs
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\scopedcss\bundle\dotNetAPI.styles.css
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.csproj.CopyComplete
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\ref\dotNetAPI.dll
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.pdb
+C:\Users\Paweu\Source\Repos\CarRentalBackend\dotNetAPI\obj\Debug\net6.0\dotNetAPI.genruntimeconfig.cache
